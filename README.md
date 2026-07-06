@@ -2,14 +2,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4C1D95,50:7C3AED,100:312E81&text=GIRISH%20PARAB&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Java+Developer;Full+Stack+Developer;Open+to+Software+Engineering+Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+to+Software+Engineering+Roles"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge)](https://rish-18.github.io/MyPortfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/girish-parab)
 [![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail)](mailto:girishparab11@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github)](https://github.com/Rish-18)
 
-![](https://komarev.com/ghpvc/?username=ronit1161&style=for-the-badge&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=Rish-18&style=for-the-badge&color=7C3AED)
 ![](https://img.shields.io/github/followers/ronit1161?style=for-the-badge)
 ![](https://img.shields.io/github/stars/ronit1161?style=for-the-badge)
 
