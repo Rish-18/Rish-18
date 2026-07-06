@@ -12,8 +12,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github)](https://github.com/Rish-18)
 
 ![](https://komarev.com/ghpvc/?username=Rish-18&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/ronit1161?style=for-the-badge)
-![](https://img.shields.io/github/stars/ronit1161?style=for-the-badge)
+![](https://img.shields.io/github/followers/Rish-18?style=for-the-badge)
+![](https://img.shields.io/github/stars/Rish-18?style=for-the-badge)
 
 </div>
 
@@ -152,11 +152,11 @@ Full Stack Developer with 1+ year of experience building responsive and scalable
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronit1161&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rish-18&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ronit1161&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rish-18&theme=midnight-purple&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit1161&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rish-18&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
@@ -165,7 +165,7 @@ Full Stack Developer with 1+ year of experience building responsive and scalable
 # GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ronit1161&theme=algolia&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rish-18&theme=algolia&no-frame=true"/>
 </div>
 
 ---
@@ -204,7 +204,7 @@ open_to:
 - Email: girishparab11@gmail.com
 - LinkedIn: www.linkedin.com/in/girish-parab
 - Portfolio: https://rish-18.github.io/MyPortfolio/)
-- GitHub: https://github.com/ronit1161
+- GitHub: https://github.com/Rish-18
 
 ---
 
