@@ -7,7 +7,7 @@
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge)](https://rish-18.github.io/MyPortfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/girish-parab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/girish-parab)
 [![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail)](mailto:girishparab11@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github)](https://github.com/Rish-18)
 
@@ -21,8 +21,18 @@
 
 # About Me
 
-Full Stack Developer with 1+ year of experience building responsive and scalable web applications using JavaScript, React.js, Node.js, Express.js, PostgreSQL, and MongoDB. Experienced in developing admin panels, CMS-driven platforms, and API integrations for real-world applications. Skilled in building full-stack solutions, working with the Zoho ecosystem (CRM, People, Recruit, SalesIQ, Books), and deploying applications in production environments. Strong problem-solving ability with experience collaborating with clients, developers, and interns to deliver efficient technical solutions.
+Full Stack Developer with 1+ year of professional experience building scalable web applications using React.js, Node.js, Express.js, PostgreSQL, MongoDB, and Java. Experienced in developing CMS-driven platforms, admin dashboards, REST APIs, and Zoho-based business automation solutions. Skilled in collaborating with cross-functional teams, optimizing application performance, and delivering production-ready solutions. Passionate about backend engineering, system design, and building impactful software products.
 
+# Professional Highlights
+
+- 💼 1+ year of experience in Full Stack Development
+- 🚀 Built CMS-driven multilingual enterprise websites
+- 🔧 Implemented business automation using Zoho CRM ecosystem
+- 📊 Developed stock management and real-time news platforms
+- 🌍 Worked on production deployments and client-facing solutions
+- 🤝 Collaborated with developers, interns, and stakeholders
+
+  
 ### Open To
 - Software Engineer Roles
 - Full Stack Developer Roles
@@ -41,12 +51,12 @@ Full Stack Developer with 1+ year of experience building responsive and scalable
 
 ### Backend & Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,mysql"/>
 </p>
 
 ### DevOps & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman"/>
 </p>
 
 ---
@@ -105,7 +115,7 @@ Full Stack Developer with 1+ year of experience building responsive and scalable
 
 </details>
 
-# Academic Projects
+# Additional Projects
 
 <details>
 <summary><b>Portfolio Website</b></summary>
@@ -154,9 +164,19 @@ Full Stack Developer with 1+ year of experience building responsive and scalable
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rish-18&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rish-18&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Rish-18&theme=midnight-purple&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rish-18&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Graph
+
+<div align="center">
+
+[![Girish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rish-18&theme=react-dark&hide_border=true)](https://github.com/Rish-18)
 
 </div>
 
@@ -173,12 +193,17 @@ Full Stack Developer with 1+ year of experience building responsive and scalable
 # Current Focus
 
 ```yaml
+
+learning:
+  - System Design
+  - AWS
+
 working_with:
   - React.js
   - Node.js
   - Express.js
   - PostgreSQL
-  - Zoho CRM Ecosystem
+  - Zoho Ecosystem
 
 building:
   - Full Stack Web Applications
@@ -188,15 +213,16 @@ building:
 
 exploring:
   - AWS Deployment
-  - Zoho Deluge Scripting
-  - Application Scalability
-  - Modern Web Architectures
+  - Microservices
+  - Cloud Technologies
+  - Scalable Architectures
 
 open_to:
   - Full Stack Developer Roles
   - MERN Stack Developer Roles
   - React Developer Roles
   - Zoho Developer Roles
+
 ```
 
 # Connect
