@@ -222,6 +222,8 @@ open_to:
   - Zoho Developer Roles
 ```
 
+---
+
 # Connect
 
 - Email: girishparab11@gmail.com
