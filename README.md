@@ -21,16 +21,24 @@
 
 # About Me
 
-Full Stack Developer with 1+ year of professional experience building scalable web applications using React.js, Node.js, Express.js, PostgreSQL, MongoDB, and Java. Experienced in developing CMS-driven platforms, admin dashboards, REST APIs, and Zoho-based business automation solutions. Skilled in collaborating with cross-functional teams, optimizing application performance, and delivering production-ready solutions. Passionate about backend engineering, system design, and building impactful software products.
+Full Stack Developer with 1+ year of professional experience building scalable web applications using React.js, Node.js, Express.js, PostgreSQL, and MongoDB.
+
+🔹 Built CMS-driven multilingual websites, admin dashboards, and business automation solutions
+
+🔹 Experienced with REST APIs, PostgreSQL, MongoDB, AWS deployments, and the Zoho ecosystem
+
+🔹 Passionate about building efficient backend systems, scalable web applications, and solving real-world business problems
+
+🔹 Open to Software Engineer, Full Stack Developer, and Backend Developer opportunities
+
 
 # Professional Highlights
 
-- 💼 1+ year of experience in Full Stack Development
-- 🚀 Built CMS-driven multilingual enterprise websites
-- 🔧 Implemented business automation using Zoho CRM ecosystem
-- 📊 Developed stock management and real-time news platforms
-- 🌍 Worked on production deployments and client-facing solutions
-- 🤝 Collaborated with developers, interns, and stakeholders
+- 💼 1+ year of professional Full Stack Development experience
+- 🚀 Built CMS-driven multilingual websites and admin platforms
+- 🔧 Implemented CRM automation using the Zoho ecosystem
+- 📊 Developed stock management and real-time news applications
+- ☁️ Experience deploying and maintaining production applications
 
   
 ### Open To
@@ -43,6 +51,9 @@ Full Stack Developer with 1+ year of professional experience building scalable w
 # Tech Stack
 
 ### Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,html,css"/>
+</p>
 
 ### Frontend
 <p align="center">
@@ -51,7 +62,7 @@ Full Stack Developer with 1+ year of professional experience building scalable w
 
 ### Backend & Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql"/>
 </p>
 
 ### DevOps & Tools
@@ -68,10 +79,9 @@ Full Stack Developer with 1+ year of professional experience building scalable w
 
 | Category | Details |
 |-----------|-----------|
-| Stack | Vite React, Node.js, Express.js, PostgreSQL, JWT |
-| Features | JWT Authentication, FIFO Stock Calculation, REST APIs, Login-Based Access |
-| Performance | Secure and scalable full-stack architecture for stock transaction management |
-| Impact | Simulates real-time stock buy/sell operations and maintains accurate trading records |
+| Stack | React.js, Node.js, Express.js, PostgreSQL, JWT |
+| Features | Authentication, FIFO Stock Calculation, REST APIs, Role-Based Access |
+| Impact | Manages stock transactions with accurate FIFO-based inventory tracking |
 | Deployment | AWS |
 
 </details>
@@ -81,10 +91,9 @@ Full Stack Developer with 1+ year of professional experience building scalable w
 
 | Category | Details |
 |-----------|-----------|
-| Stack | Vite React, Express.js |
-| Features | Real-Time News API Integration, Infinite Scroll Interface |
-| Performance | Optimized API requests and frontend rendering for smooth content loading |
-| Impact | Delivers an engaging news consumption experience with Instagram-style scrolling |
+| Stack | React.js, Express.js, News API |
+| Features | Real-Time News Fetching, Infinite Scroll, Category-Based Filtering |
+| Impact | Provides a seamless news browsing experience with dynamic content loading |
 | Deployment | Utho Server |
 
 </details>
@@ -94,10 +103,9 @@ Full Stack Developer with 1+ year of professional experience building scalable w
 
 | Category | Details |
 |-----------|-----------|
-| Stack | Vite React, Node.js, Express.js, PostgreSQL, Prisma |
+| Stack | React.js, Node.js, Express.js, PostgreSQL, Prisma |
 | Features | CMS Functionality, Admin Panels, EmailJS Integration, Multilingual Support |
-| Performance | Responsive and SEO-friendly architecture with centralized content management |
-| Impact | Enables administrators to manage website content, images, and customer inquiries without code changes |
+| Impact | Enables non-technical users to manage content, media, and inquiries efficiently |
 | Languages | Arabic & English |
 
 </details>
@@ -182,21 +190,13 @@ Full Stack Developer with 1+ year of professional experience building scalable w
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rish-18&theme=algolia&no-frame=true"/>
-</div>
-
----
-
 # Current Focus
 
 ```yaml
-
 learning:
   - System Design
   - AWS
+  - Cloud Fundamentals
 
 working_with:
   - React.js
@@ -206,30 +206,27 @@ working_with:
   - Zoho Ecosystem
 
 building:
-  - Full Stack Web Applications
-  - Admin Panels & CMS Platforms
-  - CRM-Driven Business Solutions
-  - REST API Integrations
+  - Full Stack Applications
+  - CMS Platforms
+  - Business Automation Solutions
 
 exploring:
-  - AWS Deployment
   - Microservices
   - Cloud Technologies
-  - Scalable Architectures
+  - Application Scalability
 
 open_to:
+  - Software Engineer Roles
   - Full Stack Developer Roles
-  - MERN Stack Developer Roles
-  - React Developer Roles
+  - Backend Developer Roles
   - Zoho Developer Roles
-
 ```
 
 # Connect
 
 - Email: girishparab11@gmail.com
-- LinkedIn: www.linkedin.com/in/girish-parab
-- Portfolio: https://rish-18.github.io/MyPortfolio/)
+- LinkedIn: https://www.linkedin.com/in/girish-parab
+- Portfolio: https://rish-18.github.io/MyPortfolio/
 - GitHub: https://github.com/Rish-18
 
 ---
