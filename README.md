@@ -170,11 +170,7 @@ Full Stack Developer with 1+ year of professional experience building scalable w
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rish-18&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=1800"/>
-
 <img height="180em" src="https://streak-stats.demolab.com?user=Rish-18&theme=midnight-purple&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rish-18&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
